@@ -1,4 +1,4 @@
-package com.deguia.lab_7;
+package com.inovero.lab_7;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
