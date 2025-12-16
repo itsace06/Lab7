@@ -1,0 +1,3 @@
+POST endpoint: http://localhost:8080/api/products
+Non-existent item: http://localhost:8080/api/products/4 and status 404
+Screen-shot: Not-available(problem in post)
